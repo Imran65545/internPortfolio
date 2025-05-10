@@ -4,6 +4,7 @@ import Link from "next/link";
 import data from "../../data/data";
 import Loader from "../../components/Loader"; // 👈 import it
 import Navbar from "@/components/Navbar";
+import Image from "next/image"; // make sure it's imported
 
 export default function ProjectPage({ project, nextProject, prevProject }) {
   const router = useRouter();

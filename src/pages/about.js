@@ -19,8 +19,8 @@ export default function About() {
         />
         <div className="text-gray-700 max-w-xl">
           <p className="mb-4">
-            I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.
-          </p>
+              I&apos;m a paragraph. Click here to add your own text and edit me. It&apos;s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.
+</p>
           <p>
             This is a great space to write about your company and your services. You can go into detail about your team, story, and what makes you different from competitors.
           </p>
