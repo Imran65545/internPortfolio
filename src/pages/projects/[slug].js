@@ -27,7 +27,7 @@ export default function ProjectPage({ project, nextProject, prevProject }) {
         <div className="transition-opacity duration-700 opacity-100">
           <h1 className="text-4xl font-bold mb-8">{project.title}</h1>
           <div className="flex flex-col lg:flex-row justify-baseline gap-10 items-start">
-            <img
+            <image
               src={project.image}
               alt={project.title}
               className="mb-6 w-full max-w-4xl rounded-lg shadow-lg"
